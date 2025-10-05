@@ -41,7 +41,8 @@ The dataset includes:
 ---
 
 ## 📸 Dashboard Preview
-![Blinkit Dashboard Screenshot](assets/BLINKIT%20DATA%20SS.png)
+<img width="1302" height="742" alt="BLINKIT_DATA_SS 1" src="https://github.com/user-attachments/assets/78d5e5a4-1690-48b3-ae5e-9ee1cbba0ce9" />
+
 
 ---
 
